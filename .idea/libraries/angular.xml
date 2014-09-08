@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="angular" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/angularjs/angular-animate.js" />
+        <item url="file://$USER_HOME$/angularjs/angular-locale_fr-fr.js" />
+        <item url="file://$USER_HOME$/angularjs/angular-locale_pt-br.js" />
+        <item url="file://$USER_HOME$/angularjs/angular-mocks.js" />
+        <item url="file://$USER_HOME$/angularjs/angular-route.js" />
+        <item url="file://$USER_HOME$/angularjs/angular-sanitize.js" />
+        <item url="file://$USER_HOME$/angularjs/angular-touch.js" />
+        <item url="file://$USER_HOME$/angularjs/angular.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
